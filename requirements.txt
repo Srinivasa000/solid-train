@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sentence-transformers
+pinecone-client
+python-dotenv
+streamlit
+llama-cpp-python
+tqdm
